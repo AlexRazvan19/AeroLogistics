@@ -1,1 +1,4 @@
 settings.properties
+echo dist/ >> .gitignore
+echo build/ >> .gitignore
+echo *.exe >> .gitignore
