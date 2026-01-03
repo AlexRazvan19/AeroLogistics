@@ -1,0 +1,20 @@
+1,Benjamin Huff,5870 James Lane-Sandramouth; GU 64275,3.59,STANDARD,DELIVERED, 38
+2,Keith Mays,60674 Clark Throughway-Lake Natasha; VA 06995,1.08,HIGH,DELIVERED, 32
+3,Susan Harmon,2237 Rogers Lakes-Port Bradville; MH 08145,8.51,HIGH,DELIVERED, 28
+4,Walter Holt,4335 Charles Lake-Gutierrezview; LA 43619,1.9,STANDARD,PENDING, 32
+5,Eric Barker,PSC 2733; Box 0874-APO AA 90636,2.99,HIGH,DELIVERED, 47
+6,Kevin Gomez,USCGC Long-FPO AE 60455,7.43,HIGH,DELIVERED, 68
+7,Charlene Morrison,323 Tanner Fork Apt. 325-Elizabethtown; AL 90700,4.43,HIGH,DELIVERED, 76
+8,John Garcia,268 Jennifer Canyon-Lake Miguel; AR 10976,9.72,HIGH,PENDING, 76
+9,Martha Figueroa DVM,948 Benjamin Loaf Apt. 118-Sheliabury; TN 67399,1.73,STANDARD,DELIVERED, 99
+10,Amy Robinson,5699 Katherine Locks-North Mary; WV 90420,9.67,STANDARD,PENDING, 76
+11,Elizabeth Stewart,20048 Brandon Drives-West Jonathan; MO 33026,3.04,STANDARD,PENDING, 100
+12,Chad Beltran,949 Cannon Land-South Brendachester; TX 94691,6.09,STANDARD,DELIVERED, 93
+13,Gabriela Robinson,1631 Linda Mission-North Chad; NJ 83224,3.6,STANDARD,DELIVERED, 41
+14,Valerie Sanchez,7398 Jennifer Island Suite 465-Angelborough; AR 41730,4.73,HIGH,DELIVERED, 68
+15,Caleb Jones,669 Phillips Common-Audreychester; DE 57492,3.32,STANDARD,PENDING, 13
+16,Richard Christensen,2583 William Streets-Port Darrenberg; WV 52396,0.52,STANDARD,PENDING, 34
+17,Christopher Johnson,965 Susan Union-Port Johnland; TX 13260,9.72,STANDARD,PENDING, 77
+18,Dr. Paul Johnson,14603 Smith Loaf Suite 156-Amberland; WY 43866,8.54,HIGH,DELIVERED, 11
+19,Randy Garcia,0462 Heather Junctions-Lake Travis; CT 25391,0.83,STANDARD,DELIVERED, 52
+20,Kristine Davis,69832 Stephen Locks-Port Markfort; VI 05549,5.95,STANDARD,DELIVERED, 82
