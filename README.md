@@ -21,24 +21,24 @@ The project follows a strict **Layered Architecture** utilizing **Dependency Inj
 
 ```mermaid
 graph TD
-    User[User / Logistics Manager] --> UI[Desktop UI (Tkinter)]
-    Mobile[Mobile Device] --> API[Edge API (FastAPI)]
+    User["User / Logistics Manager"] --> UI["Desktop UI (Tkinter)"]
+    Mobile["Mobile Device"] --> API["Edge API (FastAPI)"]
     
     subgraph Core_Application
-        UI --> Service[Logistic Service Layer]
+        UI --> Service["Logistic Service Layer"]
         API --> Service
         
-        Service --> AI[AI Prediction Engine]
-        Service --> Weather[Weather API Service]
-        Service --> Repo[Repository Layer]
+        Service --> AI["AI Prediction Engine"]
+        Service --> Weather["Weather API Service"]
+        Service --> Repo["Repository Layer"]
         
-        Repo --> DB[(SQLite Database)]
+        Repo --> DB[("SQLite Database")]
     end
     
     subgraph Background_Threads
-        Scheduler[Mission Scheduler]
-        Charger[Auto-Charging System]
-        Server[Uvicorn Server]
+        Scheduler["Mission Scheduler"]
+        Charger["Auto-Charging System"]
+        Server["Uvicorn Server"]
     end
     
     Scheduler -.-> Service
